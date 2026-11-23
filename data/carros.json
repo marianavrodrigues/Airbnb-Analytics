@@ -1,0 +1,18 @@
+[
+{"tamanho": 3, "deposito": 50, "tipo": 0, "nome": "Carro A", "autonomia": 500},
+{"tamanho": 2, "deposito": 45, "tipo": 1, "nome": "Carro B", "autonomia": 500},
+{"tamanho": 3, "deposito": 55, "tipo": 0, "nome": "Carro C", "autonomia": 600},
+{"tamanho": 1, "deposito": 40, "tipo": 1, "nome": "Carro D", "autonomia": 300},
+{"tamanho": 2, "deposito": 48, "tipo": 0, "nome": "Carro E", "autonomia": 450},
+{"tamanho": 3, "deposito": 60, "tipo": 1, "nome": "Carro F", "autonomia": 400},
+{"tamanho": 2, "deposito": 46, "tipo": 0, "nome": "Carro G", "autonomia": 470},
+{"tamanho": 1, "deposito": 35, "tipo": 1, "nome": "Carro H", "autonomia": 250},
+{"tamanho": 3, "deposito": 58, "tipo": 0, "nome": "Carro I", "autonomia": 520},
+{"tamanho": 2, "deposito": 48, "tipo": 0, "nome": "Carro J", "autonomia": 450},
+{"tamanho": 3, "deposito": 60, "tipo": 1, "nome": "Carro K", "autonomia": 600},
+{"tamanho": 2, "deposito": 46, "tipo": 0, "nome": "Carro L", "autonomia": 470},
+{"tamanho": 1, "deposito": 35, "tipo": 1, "nome": "Carro M", "autonomia": 250},
+{"tamanho": 3, "deposito": 58, "tipo": 0, "nome": "Carro N", "autonomia": 520},
+{"tamanho": 2, "deposito": 50, "tipo": 1, "nome": "Carro O", "autonomia": 380},
+{"tamanho": 3, "deposito": 50, "tipo": 0, "nome": "Carro P", "autonomia": 600}
+]
